@@ -2,6 +2,7 @@ import React from "react";
 import Meaning from "./Meaning.js";
 
 export default function Result(props) {
+  console.log(props.result)
   if (props.result) {
     return (
       <div className="Result">
