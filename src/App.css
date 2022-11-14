@@ -1,3 +1,7 @@
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .App-logo {
   max-width: 200px;
   display: block;
@@ -14,9 +18,9 @@
 }
 
 body {
-  background-color: #F5F2FE;
+  background-color: #f5f2fe;
 }
 
 a {
-  color:#885DF1;
+  color: #885df1;
 }
